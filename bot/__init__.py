@@ -1,7 +1,6 @@
 
 #!/usr/bin/env python3
 from tzlocal import get_localzone
-from pytz import timezone
 from datetime import datetime
 from inspect import signature
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
@@ -613,4 +612,4 @@ config_dict = {'ANIME_TEMPLATE': ANIME_TEMPLATE,
                'BOT_MAX_TASKS': BOT_MAX_TASKS,
                'CAP_FONT': CAP_FONT,
                'CMD_SUFFIX': CMD_SUFFIX,
-            
+               'DATABASE_URL': DATABAS
