@@ -1,0 +1,18 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.terabox.com	TRUE	/	FALSE	1707885498	browserid	QKzvXMXsReGv2BRCfuEJmFBpB4zxgP3DejfreHKzJ4Uhp2nbQYC7mymggqg=
+www.terabox.com	FALSE	/	FALSE	1705293978	lang	en
+.terabox.com	TRUE	/	FALSE	1737261979	__bid_n	18c70eb0857ef2c25f4207
+.www.terabox.com	TRUE	/	TRUE	1734237525	__stripe_mid	e0d90a6f-2094-45bb-9b50-2cbc00ad518cf576f2
+.www.terabox.com	TRUE	/	TRUE	1702703325	__stripe_sid	ac322a6d-77ef-4a57-b5df-a83fc3093673b14a1b
+.terabox.com	TRUE	/	FALSE	1737261975	_ga	GA1.1.597717935.1702701545
+.ymg-api.terabox.com	TRUE	/	TRUE	1737261978	ab_jid	50b76179ffb272a5768efe6b25c5dd73cb71
+www.terabox.com	FALSE	/	FALSE	1718253565	g_state	{"i_l":0}
+.terabox.com	TRUE	/	TRUE	1734237567	ndus	YQM9ACnteHui4CsdaCS8h0Xthky3UVAq1MVKjKlX
+www.terabox.com	FALSE	/	FALSE	0	csrfToken	Q3l83TFZxCxbE-z8Dm_8U_G_
+www.terabox.com	FALSE	/	FALSE	1705293975	ndut_fmt	1811E540B86D85CE168A7EAFAA11799DDC46D3B5BE280C36E5BDE5D039F320BC
+.terabox.com	TRUE	/	FALSE	1737261977	_ga_06ZNKL8C2E	GS1.1.1702701545.1.1.1702701977.19.0.0
+.ymg-api.terabox.com	TRUE	/	TRUE	1737261978	ab_bid	6179ffb272a5768efe6b25c5dd73cb71c228
+.terabox.com	TRUE	/	TRUE	1702709178	ab_sr	1.0.1_ZTNkMzZkZmJkNTA0YWE2ZTJiYzdkMjc1N2QyOGUzMzcwNWIxNjk1OWVhOWMwYjdmZDFkZGIzMDQwYTBhNmZiNmQyYjcxODJhODIyYmQwZThmMDVkNGRmNWQ5MTcwYzJiNmJiMDgxMTZlYTA0YzIwODcwNzM1OWUyZDliNjBlNWE4Y2I0Y2JiMWE4MGE5ZDgzMTI5ZTZmMWQ2ODcxZmYyMw==
